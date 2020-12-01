@@ -1,0 +1,17 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,wheelchair_boarding
+PITX,PITX,PITX,Parañaque Integrated Terminal Exchange,14.5108141,120.975049,,,0,,
+MOA,MOA,SM Mall Of Asia,SM MOA Globe EDSA,14.5348834,120.9833425,"","",0,"",""
+EDSA_TAFT,EDSA_TAFT,EDSA - Taft,EDSA - Taft,14.5372629,121.000613,"","",0,"",""
+EDSA_MAGALLANES,EDSA_MAGALLANES,EDSA - Magallanes,EDSA - Magallanes,14.5414283,121.0186893,"","",0,"",""
+EDSA_AYALA,EDSA_AYALA,EDSA - Ayala,EDSA - Ayala,14.5488602,121.0280227,"","",0,"",""
+EDSA_GUADALUPE,EDSA_GUADALUPE,EDSA - Guadalupe Island Stopover,EDSA - Guadalupe Island Stopover,14.5683362,121.0462125,"","",0,"",""
+EDSA_ORTIGAS,EDSA_ORTIGAS,EDSA - Ortigas Island Stopover,EDSA - Ortigas Island Stopover,14.5870802,121.056822,"","",0,"",""
+EDSA_SANTOLAN,EDSA_SANTOLAN,EDSA - Santolan Median Stopover,EDSA - Santolan Median Stopover,14.6076156,121.0568084,"","",0,"",""
+EDSA_CUBAO,EDSA_CUBAO,EDSA - Cubao Median Stopover,EDSA - Cubao Median Stopover,14.613964,121.053753,"","",0,"",""
+EDSA_QMART,EDSA_QMART,EDSA - Q-Mart Island Stopover,EDSA - Q-Mart Island Stopover,14.6270925,121.0477041,"","",0,"",""
+EDSA_QUEZON_AVE,EDSA_QUEZON_AVE,EDSA - Quezon Avenue Median Stopover,EDSA - Quezon Avenue Median Stopover,14.6415543,121.039348,"","",0,"",""
+EDSA_NORTH_AVE,EDSA_NORTH_AVE,EDSA - North Avenue Median Stopover,EDSA - North Avenue Median Stopover,14.650956,121.0330329,"","",0,"",""
+EDSA_MUNOZ,EDSA_MUNOZ,EDSA - Munoz Island Stopover,EDSA - Munoz Island Stopover,14.657815,121.0208255,"","",0,"",""
+EDSA_BALINTAWAK,EDSA_BALINTAWAK,EDSA - Balintawak,EDSA - Balintawak,14.6571265,121.0038879,"","",0,"",""
+EDSA_BAGONG_BARRIO,EDSA_BAGONG_BARRIO,EDSA - Bagong Barrio,EDSA - Bagong Barrio,14.6575313,120.9984612,"","",0,"",""
+EDSA_MONUMENTO,EDSA_MONUMENTO,EDSA - MCU Median Stopover,EDSA - MCU Median Stopover,14.6570374,120.9859697,"","",0,"",""
