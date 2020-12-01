@@ -11,7 +11,7 @@ EDSA_CUBAO,EDSA_CUBAO,EDSA - Cubao Median Stopover,EDSA - Cubao Median Stopover,
 EDSA_QMART,EDSA_QMART,EDSA - Q-Mart Island Stopover,EDSA - Q-Mart Island Stopover,14.6270925,121.0477041,"","",0,"",""
 EDSA_QUEZON_AVE,EDSA_QUEZON_AVE,EDSA - Quezon Avenue Median Stopover,EDSA - Quezon Avenue Median Stopover,14.6415543,121.039348,"","",0,"",""
 EDSA_NORTH_AVE,EDSA_NORTH_AVE,EDSA - North Avenue Median Stopover,EDSA - North Avenue Median Stopover,14.650956,121.0330329,"","",0,"",""
-EDSA_MUNOZ,EDSA_MUNOZ,EDSA - Munoz Island Stopover,EDSA - Munoz Island Stopover,14.657815,121.0208255,"","",0,"",""
+EDSA_MUNOZ,EDSA_MUNOZ,EDSA - Munoz Island Stopover,EDSA - Muñoz Island Stopover,14.657815,121.0208255,"","",0,"",""
 EDSA_BALINTAWAK,EDSA_BALINTAWAK,EDSA - Balintawak,EDSA - Balintawak,14.6571265,121.0038879,"","",0,"",""
 EDSA_BAGONG_BARRIO,EDSA_BAGONG_BARRIO,EDSA - Bagong Barrio,EDSA - Bagong Barrio,14.6575313,120.9984612,"","",0,"",""
 EDSA_MONUMENTO,EDSA_MONUMENTO,EDSA - MCU Median Stopover,EDSA - MCU Median Stopover,14.6570374,120.9859697,"","",0,"",""
