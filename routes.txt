@@ -1,32 +1,32 @@
 agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
-LTRFB,EDSA_CAROUSEL,EDSA Carousel,EDSA Carousel,EDSA Carousel - From MOA to North EDSA,3,,C4555B,000000
-LTRFB,MONUMENTO_BALAGTAS,Monumento - Balagtas,Monumento - Balagtas via McArthur Highway,Monumento - Balagtas via McArthur Highway,3,,4856A1,000000
-LTRFB,MONUMENTO_PITX,Monumento - PITX,"Monumento - PITX via R10,R1","Monumento - PITX via R10,R1",3,,628166,000000
-LTRFB,MONUMENTO_VGC,Monumento - Valenzuela,Monumento - Valenzuela Gateway Complex via NLEX,Monumento - Valenzuela Gateway Complex via NLEX,3,,4FB7EE,000000
-LTRFB,NORTH_EDSA_FAIRVIEW,North EDSA - Fairview,North EDSA - Fairview via Quirino Highway,North EDSA - Fairview via Quirino Highway,3,,A23D81,000000
-LTRFB,"QUEZON_AVE_ANGAT",Quezon Avenue - Angat,Quezon Avenue - Angat via Commonwealth Avenue,Quezon Avenue - Angat via Commonwealth Avenue,3,,77B552,000000
-LTRFB,QUEZON_AVE_EDSA_TAFT,Quezon Avenue - EDSA Taft,Quezon Avenue - EDSA Taft,Quezon Avenue - EDSA Taft,3,,424B5E,000000
-LTRFB,QUEZON_AVE_MONTALBAN,Quezon Avenue - Montalban,Quezon Avenue - Montalban via Commonwealth Avenue,Quezon Avenue - Montalban via Commonwealth Avenue,3,,FBC650,000000
-LTRFB,CUBAO_MONTALBAN,Cubao (Araneta Bus Station) - Montalban,"Cubao (Araneta Bus Station) - Montalban via Aurora Blvd, JP Rizal","Cubao (Araneta Bus Station) - Montalban via Aurora Blvd, JP Rizal",3,,D96598,000000
-LTRFB,CUBAO_ANTIPOLO,Cubao (Araneta Bus Station) - Antipolo,"Cubao (Araneta Bus Station) - Antipolo via Aurora Blvd, Marcos Highway","Cubao (Araneta Bus Station) - Antipolo via Aurora Blvd, Marcos Highway",3,,459C56,000000
-LTRFB,CUBAO_DOROTEO_JOSE,Cubao (Araneta Bus Station) - Doroteo Jose,"Cubao (Araneta Bus Station) - Doroteo Jose via Aurora Blvd, Magsaysay Blvd","Cubao (Araneta Bus Station) - Doroteo Jose via Aurora Blvd, Magsaysay Blvd",3,,7F457D,000000
-LTRFB,GILMORE_TAYTAY,Gilmore - Taytay,Gilmore - Taytay via Ortigas Avenue,Gilmore - Taytay via Ortigas Avenue,3,,FEF66C,000000
-LTRFB,KALENTONG_PASIG,Kalentong - Pasig,Kalentong - Pasig via Shaw Boulevard,Kalentong - Pasig via Shaw Boulevard,3,,7E9958,000000
-LTRFB,BUENDIA_BGC,Buendia - BGC,"Buendia - Bonifacio Global City via Buendia Avenue, Kalayaan Flyover","Buendia - Bonifacio Global City via Buendia Avenue, Kalayaan Flyover",3,,5E5594,000000
-LTRFB,AYALA_ALABANG,Ayala - Alabang,"Ayala - Alabang via Bicutan, Sucat","Ayala - Alabang via Bicutan, Sucat",3,,EEA2A7,000000
-LTRFB,AYALA_BINAN,Ayala - Binan,"Ayala - Binan via SLEX, Manila South Road","Ayala - Binan via SLEX, Manila South Road",3,,947340,000000
-LTRFB,AYALA_FTI,Ayala - FTI,Ayala - FTI,Ayala - FTI,3,,4B5451,000000
-LTRFB,MONUMENTO_EDSA_TAFT,Monumento - EDSA Taft,Monumento - EDSA Taft via Rizal Avenue,Monumento - EDSA Taft via Rizal Avenue,3,,DF7F4C,000000
-LTRFB,PITX_NAIA,PITX - NAIA,Paranaque Integrated Terminal Exchange (PITx) - Ninoy Aquino International Airport Loop,Paranaque Integrated Terminal Exchange (PITx) - Ninoy Aquino International Airport Loop,3,,BAEBCE,000000
-LTRFB,"NORTH_EDSA_BGC",North EDSA - BGC,"North EDSA - Bonifacio Global City via Luzon Avenue Flyover, C-5","North EDSA - Bonifacio Global City via Luzon Avenue Flyover, C-5",3,,EC8E6B,000000
-LTRFB,MONUMENTO_MEYCAUAYAN,Monumento - Meycauyan,Monumento - Meycauyan via NLEX (Meycauyan Exit),Monumento - Meycauyan via NLEX (Meycauyan Exit),3,,985F56,000000
-LTRFB,MONUMENTO_SJDM,Monumento - San Jose del Monte,Monumento - San Jose del Monte via NLEX (Marilao Exit),Monumento - San Jose del Monte via NLEX (Marilao Exit),3,,FCDF87,000000
-LTRFB,MONUMENTO_ANGAT,Monumento - Angat,Monumento - Angat via NLEX (Bocaue Exit),Monumento - Angat via NLEX (Bocaue Exit),3,,506A70,000000
-LTRFB,PITX_SUCAT,PITX - Sucat,Paranaque Integrated Terminal Exchange (PITx) - Sucat via Dr. Arcadio Santos Avenue,Paranaque Integrated Terminal Exchange (PITx) - Sucat via Dr. Arcadio Santos Avenue,3,,377F8C,000000
-LTRFB,PITX_ALABANG,PITX - Alabang,"Paranaque Integrated Terminal Exchange (PITx) - Alabang via CAVITEX, Alabang-Zapote Road","Paranaque Integrated Terminal Exchange (PITx) - Alabang via CAVITEX, Alabang-Zapote Road",3,,E2645E,000000
-LTRFB,BGC_ALABANG,BGC - Alabang,"Bonifacio Global City - Alabang via SLEX, Bicutan, Sucat","Bonifacio Global City - Alabang via SLEX, Bicutan, Sucat",3,,6C815B,000000
-LTRFB,PITX_NAIC,PITX - Naic,"Paranaque Integrated Terminal Exchange (PITx) - Naic via CAVITEX, Antero Soriano Highway","Paranaque Integrated Terminal Exchange (PITx) - Naic via CAVITEX, Antero Soriano Highway",3,,F5AF53,000000
-LTRFB,PITX_TRECE,PITX - Trece Martires,"Paranaque Integrated Terminal Exchange (PITx) - Trece Martires via CAVITEX, Antero Soriano Highway, Tanza-Trece Martires Rd","Paranaque Integrated Terminal Exchange (PITx) - Trece Martires via CAVITEX, Antero Soriano Highway, Tanza-Trece Martires Rd",3,,DB4E7F,000000
-LTRFB,PITX_DASMARINAS,PITX - Dasmarinas,"Paranaque Integrated Terminal Exchange (PITx) - Dasmarinas via CAVITEX, Emilio Aguinaldo Highway","Paranaque Integrated Terminal Exchange (PITx) - Dasmarinas via CAVITEX, Emilio Aguinaldo Highway",3,,4A6A9B,000000
-LTRFB,PITX_GENERAL_MARIANO,PITX - General Mariano Alvarez,"Paranaque Integrated Terminal Exchange (PITx) - General Mariano Alvarez via CAVITEX, Molino Blvd, Molino-Paliparan Road","Paranaque Integrated Terminal Exchange (PITx) - General Mariano Alvarez via CAVITEX, Molino Blvd, Molino-Paliparan Road",3,,495144,000000
-LTRFB,PITX_CAVITE_CITY,PITX - Cavite City,"Paranaque Integrated Terminal Exchange (PITx) - Cavite City via CAVITEX, Magdiwang Highway, Manila-Cavite Road","Paranaque Integrated Terminal Exchange (PITx) - Cavite City via CAVITEX, Magdiwang Highway, Manila-Cavite Road",3,,AD7BB7,000000
+LTFRB,EDSA_CAROUSEL,EDSA Carousel,EDSA Carousel,EDSA Carousel - From MOA to North EDSA,3,,C4555B,000000
+LTFRB,MONUMENTO_BALAGTAS,Monumento - Balagtas,Monumento - Balagtas via McArthur Highway,Monumento - Balagtas via McArthur Highway,3,,4856A1,000000
+LTFRB,MONUMENTO_PITX,Monumento - PITX,"Monumento - PITX via R10,R1","Monumento - PITX via R10,R1",3,,628166,000000
+LTFRB,MONUMENTO_VGC,Monumento - Valenzuela,Monumento - Valenzuela Gateway Complex via NLEX,Monumento - Valenzuela Gateway Complex via NLEX,3,,4FB7EE,000000
+LTFRB,NORTH_EDSA_FAIRVIEW,North EDSA - Fairview,North EDSA - Fairview via Quirino Highway,North EDSA - Fairview via Quirino Highway,3,,A23D81,000000
+LTFRB,"QUEZON_AVE_ANGAT",Quezon Avenue - Angat,Quezon Avenue - Angat via Commonwealth Avenue,Quezon Avenue - Angat via Commonwealth Avenue,3,,77B552,000000
+LTFRB,QUEZON_AVE_EDSA_TAFT,Quezon Avenue - EDSA Taft,Quezon Avenue - EDSA Taft,Quezon Avenue - EDSA Taft,3,,424B5E,000000
+LTFRB,QUEZON_AVE_MONTALBAN,Quezon Avenue - Montalban,Quezon Avenue - Montalban via Commonwealth Avenue,Quezon Avenue - Montalban via Commonwealth Avenue,3,,FBC650,000000
+LTFRB,CUBAO_MONTALBAN,Cubao (Araneta Bus Station) - Montalban,"Cubao (Araneta Bus Station) - Montalban via Aurora Blvd, JP Rizal","Cubao (Araneta Bus Station) - Montalban via Aurora Blvd, JP Rizal",3,,D96598,000000
+LTFRB,CUBAO_ANTIPOLO,Cubao (Araneta Bus Station) - Antipolo,"Cubao (Araneta Bus Station) - Antipolo via Aurora Blvd, Marcos Highway","Cubao (Araneta Bus Station) - Antipolo via Aurora Blvd, Marcos Highway",3,,459C56,000000
+LTFRB,CUBAO_DOROTEO_JOSE,Cubao (Araneta Bus Station) - Doroteo Jose,"Cubao (Araneta Bus Station) - Doroteo Jose via Aurora Blvd, Magsaysay Blvd","Cubao (Araneta Bus Station) - Doroteo Jose via Aurora Blvd, Magsaysay Blvd",3,,7F457D,000000
+LTFRB,GILMORE_TAYTAY,Gilmore - Taytay,Gilmore - Taytay via Ortigas Avenue,Gilmore - Taytay via Ortigas Avenue,3,,FEF66C,000000
+LTFRB,KALENTONG_PASIG,Kalentong - Pasig,Kalentong - Pasig via Shaw Boulevard,Kalentong - Pasig via Shaw Boulevard,3,,7E9958,000000
+LTFRB,BUENDIA_BGC,Buendia - BGC,"Buendia - Bonifacio Global City via Buendia Avenue, Kalayaan Flyover","Buendia - Bonifacio Global City via Buendia Avenue, Kalayaan Flyover",3,,5E5594,000000
+LTFRB,AYALA_ALABANG,Ayala - Alabang,"Ayala - Alabang via Bicutan, Sucat","Ayala - Alabang via Bicutan, Sucat",3,,EEA2A7,000000
+LTFRB,AYALA_BINAN,Ayala - Binan,"Ayala - Binan via SLEX, Manila South Road","Ayala - Binan via SLEX, Manila South Road",3,,947340,000000
+LTFRB,AYALA_FTI,Ayala - FTI,Ayala - FTI,Ayala - FTI,3,,4B5451,000000
+LTFRB,MONUMENTO_EDSA_TAFT,Monumento - EDSA Taft,Monumento - EDSA Taft via Rizal Avenue,Monumento - EDSA Taft via Rizal Avenue,3,,DF7F4C,000000
+LTFRB,PITX_NAIA,PITX - NAIA,Paranaque Integrated Terminal Exchange (PITx) - Ninoy Aquino International Airport Loop,Paranaque Integrated Terminal Exchange (PITx) - Ninoy Aquino International Airport Loop,3,,BAEBCE,000000
+LTFRB,"NORTH_EDSA_BGC",North EDSA - BGC,"North EDSA - Bonifacio Global City via Luzon Avenue Flyover, C-5","North EDSA - Bonifacio Global City via Luzon Avenue Flyover, C-5",3,,EC8E6B,000000
+LTFRB,MONUMENTO_MEYCAUAYAN,Monumento - Meycauyan,Monumento - Meycauyan via NLEX (Meycauyan Exit),Monumento - Meycauyan via NLEX (Meycauyan Exit),3,,985F56,000000
+LTFRB,MONUMENTO_SJDM,Monumento - San Jose del Monte,Monumento - San Jose del Monte via NLEX (Marilao Exit),Monumento - San Jose del Monte via NLEX (Marilao Exit),3,,FCDF87,000000
+LTFRB,MONUMENTO_ANGAT,Monumento - Angat,Monumento - Angat via NLEX (Bocaue Exit),Monumento - Angat via NLEX (Bocaue Exit),3,,506A70,000000
+LTFRB,PITX_SUCAT,PITX - Sucat,Paranaque Integrated Terminal Exchange (PITx) - Sucat via Dr. Arcadio Santos Avenue,Paranaque Integrated Terminal Exchange (PITx) - Sucat via Dr. Arcadio Santos Avenue,3,,377F8C,000000
+LTFRB,PITX_ALABANG,PITX - Alabang,"Paranaque Integrated Terminal Exchange (PITx) - Alabang via CAVITEX, Alabang-Zapote Road","Paranaque Integrated Terminal Exchange (PITx) - Alabang via CAVITEX, Alabang-Zapote Road",3,,E2645E,000000
+LTFRB,BGC_ALABANG,BGC - Alabang,"Bonifacio Global City - Alabang via SLEX, Bicutan, Sucat","Bonifacio Global City - Alabang via SLEX, Bicutan, Sucat",3,,6C815B,000000
+LTFRB,PITX_NAIC,PITX - Naic,"Paranaque Integrated Terminal Exchange (PITx) - Naic via CAVITEX, Antero Soriano Highway","Paranaque Integrated Terminal Exchange (PITx) - Naic via CAVITEX, Antero Soriano Highway",3,,F5AF53,000000
+LTFRB,PITX_TRECE,PITX - Trece Martires,"Paranaque Integrated Terminal Exchange (PITx) - Trece Martires via CAVITEX, Antero Soriano Highway, Tanza-Trece Martires Rd","Paranaque Integrated Terminal Exchange (PITx) - Trece Martires via CAVITEX, Antero Soriano Highway, Tanza-Trece Martires Rd",3,,DB4E7F,000000
+LTFRB,PITX_DASMARINAS,PITX - Dasmarinas,"Paranaque Integrated Terminal Exchange (PITx) - Dasmarinas via CAVITEX, Emilio Aguinaldo Highway","Paranaque Integrated Terminal Exchange (PITx) - Dasmarinas via CAVITEX, Emilio Aguinaldo Highway",3,,4A6A9B,000000
+LTFRB,PITX_GENERAL_MARIANO,PITX - General Mariano Alvarez,"Paranaque Integrated Terminal Exchange (PITx) - General Mariano Alvarez via CAVITEX, Molino Blvd, Molino-Paliparan Road","Paranaque Integrated Terminal Exchange (PITx) - General Mariano Alvarez via CAVITEX, Molino Blvd, Molino-Paliparan Road",3,,495144,000000
+LTFRB,PITX_CAVITE_CITY,PITX - Cavite City,"Paranaque Integrated Terminal Exchange (PITx) - Cavite City via CAVITEX, Magdiwang Highway, Manila-Cavite Road","Paranaque Integrated Terminal Exchange (PITx) - Cavite City via CAVITEX, Magdiwang Highway, Manila-Cavite Road",3,,AD7BB7,000000
